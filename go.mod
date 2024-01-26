@@ -1,4 +1,4 @@
-module connectdial
+module github.com/vladvalkov/connectdial
 
 go 1.21
 
